@@ -90,9 +90,3 @@ tempo constante esperado, nao garantido.
 
 Os resultados de desempenho dependem do
 ambiente de execucao.
-
-## Integridade academica
-
-O grupo deve revisar e compreender o codigo
-e declarar o uso de inteligencia artificial
-na elaboracao do projeto.
